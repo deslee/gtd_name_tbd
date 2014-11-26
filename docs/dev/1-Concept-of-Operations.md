@@ -98,7 +98,9 @@ The application will allow for extra "sugar", such as recording *reminder dates*
 
 ### Extra fun features
 
-#### Location awareness - User can set a "Work" location. Items with a special designated tag (default: "Work") will be able to see the the Actions of those Items in their dashboard if they are at their "Work" location. (Question: Are we even going to have a dashboard? tbd.)
+#### Location awareness
+
+User can set a "Work" location. Items with a special designated tag (default: "Work") will be able to see the the Actions of those Items in their dashboard if they are at their "Work" location. (Question: Are we even going to have a dashboard? tbd.)
 
 # References
 
