@@ -48,7 +48,7 @@ If the Action is not immediately "do-able", then the User must **Delegate** it (
 
 ### The Next Actions List
 
-This list consists of the Actions of *processed, actionable Items* that should be done *as soon as possible*.
+This list consists of *processed, actionable Items* that should be done *as soon as possible*.
 
 ### Someday / Maybe List
 
