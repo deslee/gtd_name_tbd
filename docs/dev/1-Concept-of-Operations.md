@@ -72,7 +72,7 @@ A project is simply a filter/view of Items that have two or more Actions. This i
 
 ### Contexts
 
-Contexts are simply "tags." They belong in the "Next Actions List"
+Contexts are simply "tags."
 
 ### Incubation
 
